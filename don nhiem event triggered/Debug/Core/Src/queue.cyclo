@@ -1,0 +1,6 @@
+../Core/Src/queue.c:5:6:initQueue	1
+../Core/Src/queue.c:12:5:isFull	1
+../Core/Src/queue.c:17:5:isEmpty	1
+../Core/Src/queue.c:22:6:push	2
+../Core/Src/queue.c:34:5:pop	2
+../Core/Src/queue.c:46:6:printQueue	2
